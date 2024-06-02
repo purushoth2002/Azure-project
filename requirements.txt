@@ -1,10 +1,4 @@
 Flask
-
-
-AutoTokenizer
-T5
-T5Tokenizer
-T5ForConditionalGeneration
 PIL
 TensorFlow
 Torch

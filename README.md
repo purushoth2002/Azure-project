@@ -87,8 +87,7 @@ We welcome contributions from the community. To contribute:
     
 5. Create a pull request on GitHub.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgements
 We would like to thank our mentors and all those who provided guidance and support throughout the development of this project.

@@ -1,7 +1,7 @@
-Flask==2.0.2
-tensorflow==2.16.0
-torch==1.13.1
-transformers==4.20.1
-Pillow==9.1.0
-numpy==1.21.2
-requests==2.26.0
+Flask
+tensorflow
+torch
+transformers
+Pillow
+numpy
+requests

@@ -1,11 +1,11 @@
 Flask
-ViT-GPT2 Image Captioning Model
+ViT-GPT2
 VisionEncoderDecoderModel
 ViTFeatureExtractor
 AutoTokenizer
 T5 Model
 T5Tokenizer
-T5ForConditionalGeneration
+T5
 PIL
 TensorFlow
 Torch

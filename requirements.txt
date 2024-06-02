@@ -1,7 +1,6 @@
 Flask
 
-VisionEncoderDecoderModel
-ViTFeatureExtractor
+
 AutoTokenizer
 T5
 T5Tokenizer

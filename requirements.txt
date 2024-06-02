@@ -1,5 +1,5 @@
 Flask
-ViT-GPT2
+
 VisionEncoderDecoderModel
 ViTFeatureExtractor
 AutoTokenizer

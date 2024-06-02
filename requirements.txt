@@ -1,0 +1,13 @@
+Flask
+ViT-GPT2 Image Captioning Model
+VisionEncoderDecoderModel
+ViTFeatureExtractor
+AutoTokenizer
+T5 Model
+T5Tokenizer
+T5ForConditionalGeneration
+PIL
+TensorFlow
+Torch
+Numpy
+Requests

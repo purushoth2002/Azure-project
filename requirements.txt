@@ -1,5 +1,5 @@
 Flask
-pillow
+pillow (10.2.0)
 TensorFlow
 Torch
 Numpy

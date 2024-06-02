@@ -5,7 +5,6 @@ ViTFeatureExtractor
 AutoTokenizer
 T5
 T5Tokenizer
-T5
 PIL
 TensorFlow
 Torch

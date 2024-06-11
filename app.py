@@ -1,4 +1,4 @@
-# import numpy as np
+import numpy as np
 import os
 from flask import Flask, app,request,render_template, redirect, url_for,jsonify
 from tensorflow.keras import models

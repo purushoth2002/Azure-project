@@ -1,6 +1,6 @@
 Flask
 tensorflow
-takonizer
+tokenizer
 transformer 
 keras
 numpy

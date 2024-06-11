@@ -1,1 +1,7 @@
 Flask
+tensorflow
+takonizer
+transformer 
+keras
+numpy
+request

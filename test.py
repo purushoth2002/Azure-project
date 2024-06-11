@@ -26,7 +26,6 @@ tokenizer = AutoTokenizer.from_pretrained("nlpconnect/vit-gpt2-image-captioning"
 tokenizer_for_summarization = T5Tokenizer.from_pretrained(model_name)
 summarization_model = T5ForConditionalGeneration.from_pretrained(model_name)
 
-# Function to preprocess the image
 def preprocess_image(image_path):
     image = Image.open(image_path)
     if image.mode != "RGB":

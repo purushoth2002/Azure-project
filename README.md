@@ -1,5 +1,9 @@
 # Integrated Text Summarization and Image Captioning
-
+## Team Members
+- *N. Purushothaman* - Backend Development
+- *R. Subitha* - Frontend Development
+- *J. Anjumol* - Cloud Service Integration
+- *B. Thiruvenkadam* - Documentation and Voice Over
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Team Members](#team-members)
@@ -15,11 +19,7 @@
 ## Project Overview
 Integrated Text Summarization and Image Captioning is a comprehensive solution that combines the power of Natural Language Processing (NLP) and Computer Vision. Our project aims to provide a platform where users can upload text and images to receive concise summaries and descriptive captions respectively.
 
-## Team Members
-- *N. Purushothaman* - Backend Development
-- *R. Subitha* - Frontend Development
-- *J. Anjumol* - Cloud Service Integration
-- *B. Thiruvenkadam* - Documentation and Voice Over
+
 
 ## Features
 - *Text Summarization*: Provides a concise summary of the input text.
@@ -84,36 +84,27 @@ We welcome contributions from the community. To contribute:
 4. Push to the branch:
     bash
     git push origin feature-branch
-    
-5. Create a pull request on GitHub.
 
 
 
-## Acknowledgements
- We would like to thank our mentors and all those who provided guidance and support throughout the development of this project.
-
- ![1](https://github.com/purushoth2002/Azure-project/assets/166324583/1a86818f-8bc2-400d-8f94-c761f9102170)
 
 
- ![2](https://github.com/purushoth2002/Azure-project/assets/166324583/107ea0e6-8c3a-4e84-8d40-00efaa64aa2b)
-
-
+![1](https://github.com/purushoth2002/Azure-project/assets/166324583/1a86818f-8bc2-400d-8f94-c761f9102170)
+![2](https://github.com/purushoth2002/Azure-project/assets/166324583/107ea0e6-8c3a-4e84-8d40-00efaa64aa2b)
 ![3](https://github.com/purushoth2002/Azure-project/assets/166324583/7b183ef8-1440-4b82-8b4f-d1a1e90acb08)
-
-
 ![4](https://github.com/purushoth2002/Azure-project/assets/166324583/19424eaa-8cfa-4e50-9ca1-4ce3c04e1835)
-
-
 ![5](https://github.com/purushoth2002/Azure-project/assets/166324583/240c43d0-3c43-42b8-8fe3-8e09699d83a1)
-
- 
 ![6](https://github.com/purushoth2002/Azure-project/assets/166324583/ef20c7a3-276c-49e4-a71e-b59a9e2d523b)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/a2209e85-3046-4bc0-b505-6c1c2903465f)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/c0656498-4f31-4a34-bec0-0a644ec4c320)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/f9db32cb-7122-45f7-b787-41998b393859)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/9a45e88a-cbd5-4538-9ff3-ae409fd02416)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/c0654a13-d8a5-4bb2-898f-99eccf108809)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/29ec9845-a2bd-48f9-b624-02de4f5dd538)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/b4f7b461-fab7-4577-907b-99daf873a88b)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/e901072a-d935-44ae-94f4-44ac7707eaf9)
 
 
 
-
-
-
-
-
-
+#demo url
+## Video Url

@@ -21,7 +21,7 @@ app=Flask(__name__)
 
 model_name = "t5-small"  # You can also use "t5-base" or "t5-large" for better performance
 # Load the pre-trained model
-model = VisionEncoderDecoderModel.from_pretrained("nlpconnect/vit-gpt2-image-captioning",from_pt=True)
+model = VisionEncoderDecoderModel.from_pretrained("nlpconnect/vit-gpt2-image-captioning")
 feature_extractor = ViTFeatureExtractor.from_pretrained("nlpconnect/vit-gpt2-image-captioning")
 tokenizer = AutoTokenizer.from_pretrained("nlpconnect/vit-gpt2-image-captioning")
 

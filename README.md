@@ -90,4 +90,4 @@ We welcome contributions from the community. To contribute:
 
 
 ## Acknowledgements
-We would like to thank our mentors and all those who provided guidance and support throughout the development of this project.
+ We would like to thank our mentors and all those who provided guidance and support throughout the development of this project.

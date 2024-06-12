@@ -68,7 +68,6 @@ Integrated Text Summarization and Image Captioning is a comprehensive solution t
 - *Cloud Services*: Manages the hosting, storage, and scaling of the application.
 - *Database*: Stores user data and results for future reference.
 
-
 ![Architecture Diagram](path-to-architecture-diagram.png)
 
 ## Contributing

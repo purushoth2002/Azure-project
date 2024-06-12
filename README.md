@@ -92,23 +92,20 @@ We welcome contributions from the community. To contribute:
 ## Acknowledgements
  We would like to thank our mentors and all those who provided guidance and support throughout the development of this project.
 
+ ![1](https://github.com/purushoth2002/Azure-project/assets/166324583/1a86818f-8bc2-400d-8f94-c761f9102170)
+
  
-![Screenshot 2024-06-12 121323](https://github.com/purushoth2002/Azure-project/assets/165758877/0036a5be-3b9c-420e-a340-cc5dce38955d)
+![6](https://github.com/purushoth2002/Azure-project/assets/166324583/ef20c7a3-276c-49e4-a71e-b59a9e2d523b)
 
 
-![page 2](https://github.com/purushoth2002/Azure-project/assets/165758877/ce988902-f13e-49a6-8601-00bdbe0ca4e2)
+![5](https://github.com/purushoth2002/Azure-project/assets/166324583/240c43d0-3c43-42b8-8fe3-8e09699d83a1)
 
 
-![page 3](https://github.com/purushoth2002/Azure-project/assets/165758877/680b89d1-b673-4f16-b2e3-147dd2e946d2)
+![4](https://github.com/purushoth2002/Azure-project/assets/166324583/19424eaa-8cfa-4e50-9ca1-4ce3c04e1835)
 
 
-![page 4](https://github.com/purushoth2002/Azure-project/assets/165758877/f2a2947e-d68d-4b51-b1fb-c4c91add0d7a)
+![3](https://github.com/purushoth2002/Azure-project/assets/166324583/7b183ef8-1440-4b82-8b4f-d1a1e90acb08)
 
 
-![page 5](https://github.com/purushoth2002/Azure-project/assets/165758877/965b4e9d-b737-4ba6-8f3e-4c6cee8cd879)
+![2](https://github.com/purushoth2002/Azure-project/assets/166324583/107ea0e6-8c3a-4e84-8d40-00efaa64aa2b)
 
-
-![page 6](https://github.com/purushoth2002/Azure-project/assets/165758877/5421c1f5-dea4-4757-9cc9-d98236bf88fe)
-
-
-![png 7](https://github.com/purushoth2002/Azure-project/assets/165758877/a9c528c5-898a-4c8c-9da2-e395824bd85b)

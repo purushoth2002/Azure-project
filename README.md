@@ -20,12 +20,12 @@
 Integrated Text Summarization and Image Captioning is a comprehensive solution that combines the power of Natural Language Processing (NLP) and Computer Vision. Our project aims to provide a platform where users can upload text and images to receive concise summaries and descriptive captions respectively.
 
 ## Explanation of Packages:
-- *Flask: Required for building and running the web application.
-- *numpy: Essential for numerical operations, often used in conjunction with TensorFlow and PyTorch.
-- *tensorflow: Deep learning framework for building and training neural networks.
-- *transformers: Hugging Face library for natural language processing tasks, including text summarization.
-- *torch: PyTorch deep learning framework for tensor computation.
-- *Pillow: Python Imaging Library for image processing tasks.
+- Flask: Required for building and running the web application.
+- numpy: Essential for numerical operations, often used in conjunction with TensorFlow and PyTorch.
+- tensorflow: Deep learning framework for building and training neural networks.
+- transformers: Hugging Face library for natural language processing tasks, including text summarization.
+- torch: PyTorch deep learning framework for tensor computation.
+- Pillow: Python Imaging Library for image processing tasks.
 
 ## Features
 - *Text Summarization*: Provides a concise summary of the input text.

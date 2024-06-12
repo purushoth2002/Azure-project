@@ -37,11 +37,11 @@ Integrated Text Summarization and Image Captioning is a comprehensive solution t
 ## Installation
 1. Clone the repository:
     bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/purushoth2002/Azure-project.git
     
 2. Navigate to the project directory:
     bash
-    cd your-repo
+    cd Azure-project
     
 3. Install dependencies:
     bash
@@ -49,14 +49,14 @@ Integrated Text Summarization and Image Captioning is a comprehensive solution t
     
 4. Set up the database:
     bash
-    python manage.py migrate
+    python3 app.py migrate
     
 5. Run the development server:
     bash
-    python manage.py runserver
+    python3 app.py runserver
     
 ## Usage
-1. Open your web browser and go to http://localhost:8000.
+1. Open your web browser and go to http://20.40.43.67:8080/
 2. Upload a text file for summarization or an image for captioning.
 3. Click on the respective buttons to get the summary or caption.
 4. View and download the results.

@@ -21,7 +21,7 @@ app=Flask(__name__)
 
 model_name = "t5-small"  # You can also use "t5-base" or "t5-large" for better performance
 # Load the pre-trained model
-model = VisionEncoderDecoderModel.from_pretrained("nlpconnect/vit-gpt2-image-captioning")
+model = VisionEncoderDecoderModel.from_pretrained("nlpconnect/vit-gpt2-image-captioning",from_tf=True)
 feature_extractor = ViTFeatureExtractor.from_pretrained("nlpconnect/vit-gpt2-image-captioning")
 tokenizer = AutoTokenizer.from_pretrained("nlpconnect/vit-gpt2-image-captioning")
 
@@ -118,4 +118,4 @@ def contact():
 
 """ Running our application """
 if __name__ == "__main__":
-    app.run(debug =True, port = 8080)
+    app.run(debug =True, host = "0.0.0.0" port = 8080)

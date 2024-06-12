@@ -103,6 +103,8 @@ We welcome contributions from the community. To contribute:
 ![image](https://github.com/purushoth2002/Azure-project/assets/166324583/29ec9845-a2bd-48f9-b624-02de4f5dd538)
 ![image](https://github.com/purushoth2002/Azure-project/assets/166324583/b4f7b461-fab7-4577-907b-99daf873a88b)
 ![image](https://github.com/purushoth2002/Azure-project/assets/166324583/e901072a-d935-44ae-94f4-44ac7707eaf9)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/2276c559-aab4-4efd-87a6-a861e56052d2)
+![image](https://github.com/purushoth2002/Azure-project/assets/166324583/26a0ede1-9815-48a2-b5a2-94957395d3c1)
 
 
 

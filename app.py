@@ -108,6 +108,10 @@ def ourwork():
 def contact():
     return render_template('contact.html')
 
+@app.route('/chat')
+def chat():
+    return render_template('chat.html')
+
         
 
 

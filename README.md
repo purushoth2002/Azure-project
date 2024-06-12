@@ -70,7 +70,6 @@ Integrated Text Summarization and Image Captioning is a comprehensive solution t
 ![Architecture Diagram](path-to-architecture-diagram.png)
 
 
-
 ## Contributing
 We welcome contributions from the community. To contribute:
 1. Fork the repository.

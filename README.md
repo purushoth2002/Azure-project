@@ -5,21 +5,27 @@
 - *J. Anjumol* - Cloud Service Integration
 - *B. Thiruvenkadam* - Documentation and Voice Over
 ## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Team Members](#team-members)
-3. [Features](#features)
-4. [Technologies Used](#technologies-used)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Architecture](#architecture)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgements](#acknowledgements)
+1. Project Overview
+2. Team Members
+3. Features
+4. Technologies Used
+5. Installation
+6. Usage
+7. Architecture
+8. Contributing
+9. License
+10. Acknowledgements
 
 ## Project Overview
 Integrated Text Summarization and Image Captioning is a comprehensive solution that combines the power of Natural Language Processing (NLP) and Computer Vision. Our project aims to provide a platform where users can upload text and images to receive concise summaries and descriptive captions respectively.
 
-
+Explanation of Packages:
+Flask: Required for building and running the web application.
+numpy: Essential for numerical operations, often used in conjunction with TensorFlow and PyTorch.
+tensorflow: Deep learning framework for building and training neural networks.
+transformers: Hugging Face library for natural language processing tasks, including text summarization.
+torch: PyTorch deep learning framework for tensor computation.
+Pillow: Python Imaging Library for image processing tasks.
 
 ## Features
 - *Text Summarization*: Provides a concise summary of the input text.
@@ -28,10 +34,9 @@ Integrated Text Summarization and Image Captioning is a comprehensive solution t
 - *Cloud Integration*: Seamless cloud service integration for scalability and performance.
 
 ## Technologies Used
-- *Backend*: Python, Flask/Django, NLP Libraries (like NLTK, spaCy, or Transformers)
-- *Frontend*: HTML, CSS, JavaScript, React/Vue.js
-- *Cloud Services*: AWS/GCP/Azure for hosting and storage
-- *Database*: MySQL/PostgreSQL/NoSQL
+- *Backend*: Python, Flask,  (like tensorflow, or Transformers)
+- *Frontend*: HTML, CSS, JavaScript, bootstrap, jquery
+- *Cloud Services*: Azure for hosting and storage
 - *Version Control*: Git, GitHub/GitLab
 
 ## Installation

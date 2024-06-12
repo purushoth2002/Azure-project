@@ -55,7 +55,6 @@ Integrated Text Summarization and Image Captioning is a comprehensive solution t
     bash
     python manage.py runserver
     
-
 ## Usage
 1. Open your web browser and go to http://localhost:8000.
 2. Upload a text file for summarization or an image for captioning.

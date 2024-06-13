@@ -3,7 +3,7 @@
 - *N. Purushothaman* - Backend Development
 - *R. Subitha* - Frontend Development
 - *J. Anjumol* - Cloud Service Integration
-- *B. Thiruvenkadam* - Documentation and Voice Over
+- 
 ## Table of Contents
 1. Project Overview
 2. Team Members

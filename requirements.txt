@@ -6,4 +6,4 @@ torch
 transformers
 requests
 sentencepiece
-Tokenizar
+Tokenizer

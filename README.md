@@ -61,7 +61,7 @@ Integrated Text Summarization and Image Captioning is a comprehensive solution t
     python3 app.py runserver
     
 ## Usage
-1. Open your web browser and go to http://20.40.43.67:8080/
+1. Open your web browser and go to https://semanticsynthesis.azurewebsites.net/
 2. Upload a text file for summarization or an image for captioning.
 3. Click on the respective buttons to get the summary or caption.
 4. View and download the results.
@@ -113,5 +113,5 @@ We welcome contributions from the community. To contribute:
 
 
 
-#demo url  http://20.40.43.67:8080/
+#demo url  https://semanticsynthesis.azurewebsites.net/
 ## Video Url  https://youtu.be/9wfn1BW5ROQ
